@@ -22,12 +22,15 @@ ARP has **no authentication**, which makes it vulnerable.
 ## ⚔️ How ARP Spoofing Works
 1. Attacker scans the local network
 2. Attacker sends forged ARP replies
-4. Victim believes attacker is the router
-5. Traffic passes through attacker
-6. Attacker can sniff, modify, or block data
+3. Victim believes attacker is the router
+4. Traffic passes through attacker
+
+<img width="932" height="577" alt="Image" src="https://github.com/user-attachments/assets/30de744d-976d-4747-a57b-477c9e9cf2de" />
+   
+5. Attacker can sniff, modify, or block data
 
  
- Screen Before attack
+ Screenshot Before attack
 
 
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/07e6de3d-7d5a-4b9d-a736-3919d45aad94" />
