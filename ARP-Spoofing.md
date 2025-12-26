@@ -25,9 +25,16 @@ ARP has **no authentication**, which makes it vulnerable.
 4. Victim believes attacker is the router
 5. Traffic passes through attacker
 6. Attacker can sniff, modify, or block data
-Screen Before attack
+
+ 
+ Screen Before attack
+
+
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/07e6de3d-7d5a-4b9d-a736-3919d45aad94" />
-Screenshot after attack
+ 
+ Screenshot after attack
+
+
 <img width="703" height="982" alt="Image" src="https://github.com/user-attachments/assets/70feb543-8af8-41d4-8f4d-f0933daa0f5a" />
 ---
 
