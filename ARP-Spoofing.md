@@ -10,8 +10,8 @@ In this attack, an attacker sends fake ARP replies to associate their MAC addres
 **ARP (Address Resolution Protocol)** maps an IP address to a MAC address in a local network.
 
 Example:
-- IP: `192.168.1.1`
-- MAC: `AA:BB:CC:DD:EE:FF`
+- IP: `10.150.65.1`
+- MAC: `00-0c-29-b1-59-c9`
 
 ARP has **no authentication**, which makes it vulnerable.
 
@@ -59,7 +59,4 @@ Any misuse of this knowledge is the sole responsibility of the user.
 
 ---
 
-## 📚 References
-- RFC 826 – Address Resolution Protocol
-- OWASP Network Attacks
-- MITRE ATT&CK Framework
+
